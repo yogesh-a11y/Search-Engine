@@ -1,0 +1,7 @@
+streamlit
+selenium
+beautifulsoup4
+lxml
+requests
+webdriver-manager
+apscheduler

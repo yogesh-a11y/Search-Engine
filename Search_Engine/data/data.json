@@ -1,0 +1,780 @@
+[
+  {
+    "title": "Research output",
+    "authors": [
+      "James Brusey"
+    ],
+    "year": null,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey/",
+    "crawled_at": "2026-01-16T13:21:14.908967"
+  },
+  {
+    "title": "Learning from less: SINDy Surrogates in RL",
+    "authors": [
+      "Khan, M. I.",
+      "Brusey, J.",
+      "James Brusey",
+      "Dixit, A.",
+      "Ahmed, F."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/learning-from-less-sindy-surrogates-in-rl/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey/",
+    "crawled_at": "2026-01-16T13:21:14.909095"
+  },
+  {
+    "title": "Reinforcement Learning for Building Control: Direct Actuator or PID-Mediated Control?",
+    "authors": [
+      "James Brusey",
+      "Brusey, J.",
+      "Ahmed, F.",
+      "Dixit, A."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/reinforcement-learning-for-building-control-direct-actuator-or-pi/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey/",
+    "crawled_at": "2026-01-16T13:21:14.909191"
+  },
+  {
+    "title": "Differential radial basis function network for sequence modelling",
+    "authors": [
+      "James Brusey",
+      "Brusey, J.",
+      "Gaura, E."
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/differential-radial-basis-function-network-for-sequence-modelling/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey/",
+    "crawled_at": "2026-01-16T13:21:14.909282"
+  },
+  {
+    "title": "Fast, detailed, accurate simulation of a thermal car-cabin using machine-learning",
+    "authors": [
+      "James Brusey",
+      "Brusey, J.",
+      "Gaura, E."
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/fast-detailed-accurate-simulation-of-a-thermal-car-cabin-using-ma/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey/",
+    "crawled_at": "2026-01-16T13:21:14.909371"
+  },
+  {
+    "title": "Off the boil? The challenges of monitoring cooking behaviour in refugee settlements",
+    "authors": [
+      "James Brusey",
+      "Halford, A.",
+      "Brusey, J.",
+      "Gaura, E."
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/off-the-boil-the-challenges-of-monitoring-cooking-behaviour-in-re/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey/",
+    "crawled_at": "2026-01-16T13:21:14.909464"
+  },
+  {
+    "title": "An iterated greedy algorithm with variable reconstruction size for the obnoxious p-median problem",
+    "authors": [
+      "Matthew England",
+      "England, M."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/an-iterated-greedy-algorithm-with-variable-reconstruction-size-fo/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england/",
+    "crawled_at": "2026-01-16T13:21:17.705302"
+  },
+  {
+    "title": "Iterated Resultants and Rational Functions in Real Quantifier Elimination",
+    "authors": [
+      "Matthew England",
+      "England, M."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/iterated-resultants-and-rational-functions-in-real-quantifier-eli/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england/",
+    "crawled_at": "2026-01-16T13:21:17.705407"
+  },
+  {
+    "title": "On Projective Delineability",
+    "authors": [
+      "Matthew England",
+      "England, M."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/on-projective-delineability/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england/",
+    "crawled_at": "2026-01-16T13:21:17.705494"
+  },
+  {
+    "title": "Predicting At-Risk Programming Students in Small Imbalanced Datasets using Synthetic Data",
+    "authors": [
+      "Flood, D.",
+      "Matthew England",
+      "Grawemeyer, B.",
+      "England, M."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/predicting-at-risk-programming-students-in-small-imbalanced-datas/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england/",
+    "crawled_at": "2026-01-16T13:21:17.705589"
+  },
+  {
+    "title": "Projective Delineability for Single Cell Construction.",
+    "authors": [
+      "Matthew England",
+      "England, M."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/projective-delineability-for-single-cell-construction/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england/",
+    "crawled_at": "2026-01-16T13:21:17.705676"
+  },
+  {
+    "title": "Application of Amazon Web Services within teaching & learning at Coventry University Group",
+    "authors": [
+      "Flood, D.",
+      "Dan Flood, MA BSc(Hons) FHEA"
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/application-of-amazon-web-services-within-teaching-amp-learning-a/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/dan-flood/",
+    "crawled_at": "2026-01-16T13:21:20.720397"
+  },
+  {
+    "title": "A Hybrid Physics-Informed Neural Network: SEIRD Model for Forecasting COVID-19 Intensive Care Unit Demand in England",
+    "authors": [
+      "Palade, V.",
+      "Ajao-Olarinoye, M.",
+      "Fei He",
+      "Wark, P. A.",
+      "He, F."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-hybrid-physics-informed-neural-network-seird-model-for-forecast/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/fei-he/",
+    "crawled_at": "2026-01-16T13:21:23.941850"
+  },
+  {
+    "title": "EEG Signal Processing Techniques and Applications\u20142nd Edition",
+    "authors": [
+      "He, F.",
+      "Fei He"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/eeg-signal-processing-techniques-and-applications2nd-edition/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/fei-he/",
+    "crawled_at": "2026-01-16T13:21:23.941958"
+  },
+  {
+    "title": "Evaluating brain electroencephalogram signal dynamics across cognitive disorders using information geometry",
+    "authors": [
+      "He, F.",
+      "Fei He",
+      "Kim, E.-J."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/evaluating-brain-electroencephalogram-signal-dynamics-across-cogn/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/fei-he/",
+    "crawled_at": "2026-01-16T13:21:23.942065"
+  },
+  {
+    "title": "MSA-CNN: A Lightweight Multi-Scale CNN with Attention for Sleep Stage Classification",
+    "authors": [
+      "Goerttler, S.",
+      "He, F.",
+      "Fei He"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/msa-cnn-a-lightweight-multi-scale-cnn-with-attention-for-sleep-st/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/fei-he/",
+    "crawled_at": "2026-01-16T13:21:23.942159"
+  },
+  {
+    "title": "Balancing Spectral, Temporal and Spatial Information for EEG-based Alzheimer\u2019s Disease Classification",
+    "authors": [
+      "Goerttler, S.",
+      "He, F.",
+      "Fei He"
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/balancing-spectral-temporal-and-spatial-information-for-eeg-based/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/fei-he/",
+    "crawled_at": "2026-01-16T13:21:23.942250"
+  },
+  {
+    "title": "A Novel Framework to Assess Clinical Information in Digital Health Technologies: Cross-Sectional Survey Study",
+    "authors": [
+      "Wark, P. A.",
+      "Petra Wark"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-novel-framework-to-assess-clinical-information-in-digital-healt/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/petra-wark/",
+    "crawled_at": "2026-01-16T13:21:26.794085"
+  },
+  {
+    "title": "Protocol for an eDelphi study to identify consensus on policy metrics which should be included in future assessments of the England Rare Diseases Action Plans",
+    "authors": [
+      "Wark, P. A.",
+      "Petra Wark"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/protocol-for-an-edelphi-study-to-identify-consensus-on-policy-met/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/petra-wark/",
+    "crawled_at": "2026-01-16T13:21:26.794186"
+  },
+  {
+    "title": "A Feasibility Trial Of A Co-created Digital Self-management Programme For Adults With Polycystic Ovary Syndrome (Hope PCOS)",
+    "authors": [
+      "Wark, P.",
+      "Petra Wark",
+      "Broom, D.",
+      "Percy, C.",
+      "Turner, A."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-feasibility-trial-of-a-co-created-digital-self-management-progr/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/petra-wark/",
+    "crawled_at": "2026-01-16T13:21:26.794279"
+  },
+  {
+    "title": "Deep Learning Based Forecasting of COVID-19 Hospitalisation in England: A Comparative Analysis",
+    "authors": [
+      "Palade, V.",
+      "Petra Wark",
+      "Ajao-olarinoye, M.",
+      "Wark, P. A.",
+      "He, F."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/deep-learning-based-forecasting-of-covid-19-hospitalisation-in-en/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/petra-wark/",
+    "crawled_at": "2026-01-16T13:21:26.794373"
+  },
+  {
+    "title": "Force majeure impact on citizen science: Perspective from an EU funded project",
+    "authors": [
+      "Shah, H.",
+      "Huma Shah"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/force-majeure-impact-on-citizen-science-perspective-from-an-eu-fu/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah/",
+    "crawled_at": "2026-01-16T13:21:29.747034"
+  },
+  {
+    "title": "Beneath the bonnet of online privacy: Monitoring GDPR compliance through citizen science",
+    "authors": [
+      "Shah, H.",
+      "Huma Shah"
+    ],
+    "year": 2023,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/beneath-the-bonnet-of-online-privacy-monitoring-gdpr-compliance-t/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah/",
+    "crawled_at": "2026-01-16T13:21:29.747130"
+  },
+  {
+    "title": "Editorial: Women in language and computation 2022",
+    "authors": [
+      "Shah, H.",
+      "Huma Shah"
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/editorial-women-in-language-and-computation-2022/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah/",
+    "crawled_at": "2026-01-16T13:21:29.747220"
+  },
+  {
+    "title": "Modeling intrinsic factors of inclusive engagement in Citizen Science: Insights from the participants\u2019 survey analysis of CSI-COP",
+    "authors": [
+      "Winter, J.",
+      "Shah, H.",
+      "Huma Shah"
+    ],
+    "year": 2023,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/modeling-intrinsic-factors-of-inclusive-engagement-in-citizen-sci/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah/",
+    "crawled_at": "2026-01-16T13:21:29.747314"
+  },
+  {
+    "title": "Not Born of Woman: Gendered Robots",
+    "authors": [
+      "Shah, H.",
+      "Huma Shah"
+    ],
+    "year": 2023,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/not-born-of-woman-gendered-robots/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah/",
+    "crawled_at": "2026-01-16T13:21:29.747404"
+  },
+  {
+    "title": "Intelligent lithium plating detection and prediction method for Li-ion batteries based on random forest model",
+    "authors": [
+      "Guo, Y.",
+      "Rohit Bhagat",
+      "Bhagat, R."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/intelligent-lithium-plating-detection-and-prediction-method-for-l/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rohit-bhagat/",
+    "crawled_at": "2026-01-16T13:21:32.497478"
+  },
+  {
+    "title": "GaN Transistors\u2019 Radiated Switching Noise Source Evidenced by Hall Sensor Experiments Toward Integration",
+    "authors": [
+      "Fleming, J.",
+      "Bhagat, R.",
+      "Faramehr, S.",
+      "Rohit Bhagat",
+      "Igic, P.",
+      "Marsic, V."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/gan-transistors-radiated-switching-noise-source-evidenced-by-hall/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rohit-bhagat/",
+    "crawled_at": "2026-01-16T13:21:32.497595"
+  },
+  {
+    "title": "In Operando Optical Analysis of Electrolyte Colour Change and Its Correlation to Capacity Fade in Li-Ion Cells at Elevated Temperatures",
+    "authors": [
+      "Sattar, S.",
+      "Guo, Y.",
+      "Bhagat, R.",
+      "Roberts, A. J.",
+      "Statheros, T.",
+      "Ali Raza, ..",
+      "Rohit Bhagat"
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/in-operando-optical-analysis-of-electrolyte-colour-change-and-its/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rohit-bhagat/",
+    "crawled_at": "2026-01-16T13:21:32.497701"
+  },
+  {
+    "title": "Instrumentation of novel optical sensor technology to detect the real-time electrolyte colour change in Li-on pouch cells",
+    "authors": [
+      "Sattar, S.",
+      "Guo, Y.",
+      "Bhagat, R.",
+      "Roberts, A.",
+      "Statheros, T.",
+      "Rohit Bhagat"
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/instrumentation-of-novel-optical-sensor-technology-to-detect-the-/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rohit-bhagat/",
+    "crawled_at": "2026-01-16T13:21:32.497798"
+  },
+  {
+    "title": "The effect of copper doping in \u03b1-MnO2 as cathode material for aqueous Zinc-ion batteries",
+    "authors": [
+      "Sahib, A. J. S.",
+      "Bhagat, R.",
+      "Roberts, A.",
+      "Rohit Bhagat",
+      "Greszta, A."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/the-effect-of-copper-doping-in-%CE%B1-mno2-as-cathode-material-for-aqu/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rohit-bhagat/",
+    "crawled_at": "2026-01-16T13:21:32.499630"
+  },
+  {
+    "title": "A question-answering framework for automated abstract screening using large language models",
+    "authors": [
+      "Opeoluwa Akinseloyin",
+      "Akinseloyin, O.",
+      "Palade, V."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-question-answering-framework-for-automated-abstract-screening-u/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/opeoluwa-akinseloyin/",
+    "crawled_at": "2026-01-16T13:21:35.110162"
+  },
+  {
+    "title": "Interfaith Learning in Christian and Muslim Higher Education Colleges",
+    "authors": [
+      "Sariya Cheruvallil-Contractor",
+      "Cheruvallil-Contractor, S.",
+      "Aune, K."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/interfaith-learning-in-christian-and-muslim-higher-education-coll/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sariya-cheruvallil-contractor/",
+    "crawled_at": "2026-01-16T13:21:37.973256"
+  },
+  {
+    "title": "The Black Social Workers\u2019 Oral History Project: When heritage is powerful and political",
+    "authors": [
+      "Sariya Cheruvallil-Contractor",
+      "Cheruvallil-Contractor, S.",
+      "Halford, A."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/the-black-social-workers-oral-history-project-when-heritage-is-po/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sariya-cheruvallil-contractor/",
+    "crawled_at": "2026-01-16T13:21:37.973358"
+  },
+  {
+    "title": "\u201cYour Lord has not forsaken you\u201d: Interrogating Socio-Political and Theological Reasons for the lack of Adopters and Foster Carers from Muslim backgrounds in Britain",
+    "authors": [
+      "Sariya Cheruvallil-Contractor",
+      "Cheruvallil-Contractor, S.",
+      "Halford, A."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/your-lord-has-not-forsaken-you-interrogating-socio-political-and-/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sariya-cheruvallil-contractor/",
+    "crawled_at": "2026-01-16T13:21:37.973455"
+  },
+  {
+    "title": "Expressions of Self: Race, Religion and Representation of minoritised children and young people in the British Care System",
+    "authors": [
+      "Sariya Cheruvallil-Contractor",
+      "Cheruvallil-Contractor, S.",
+      "Halford, A."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/expressions-of-self-race-religion-and-representation-of-minoritis/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sariya-cheruvallil-contractor/",
+    "crawled_at": "2026-01-16T13:21:37.973545"
+  },
+  {
+    "title": "How do the British People Understand their Security? Responses from a new approach to public opinion surveying",
+    "authors": [
+      "Gillions, A. T. M.",
+      "Hacsek, Z.",
+      "Cheruvallil-Contractor, S.",
+      "Curran, D.",
+      "Sariya Cheruvallil-Contractor"
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/how-do-the-british-people-understand-their-security-responses-fro/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/sariya-cheruvallil-contractor/",
+    "crawled_at": "2026-01-16T13:21:37.973638"
+  },
+  {
+    "title": "[Review of] Irish Mormonism: Reconciling Identity in Global Mormonism, by HAZEL O\u2019BRIEN",
+    "authors": [
+      "Alison Halford",
+      "Halford, A."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/review-of-irish-mormonism-reconciling-identity-in-global-mormonis/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/alison-halford/",
+    "crawled_at": "2026-01-16T13:21:43.389692"
+  },
+  {
+    "title": "A Lifecycle Approach for Artificial Intelligence Ethics in Energy Systems",
+    "authors": [
+      "Alison Halford",
+      "Halford, A.",
+      "Stamp, K."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-lifecycle-approach-for-artificial-intelligence-ethics-in-energy/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/alison-halford/",
+    "crawled_at": "2026-01-16T13:21:43.389803"
+  },
+  {
+    "title": "Roadmap to reach global net-zero emissions for developing regions by 2085",
+    "authors": [
+      "Elena Gaura",
+      "Gaura, E."
+    ],
+    "year": 2085,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/roadmap-to-reach-global-net-zero-emissions-for-developing-regions/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura/",
+    "crawled_at": "2026-01-16T13:21:47.013549"
+  },
+  {
+    "title": "Unlocking the potential of sensors for our environment: A call to action from a NERC writing retreat",
+    "authors": [
+      "Halford, A.",
+      "Van De Wiel, M.",
+      "Elena Gaura",
+      "Gaura, E."
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/unlocking-the-potential-of-sensors-for-our-environment-a-call-to-/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura/",
+    "crawled_at": "2026-01-16T13:21:47.014126"
+  },
+  {
+    "title": "Cyber-physical Advances in SLES: \u200bResource pack for school workshop participants",
+    "authors": [
+      "Ingram, C.",
+      "Gaura, E.",
+      "Elena Gaura",
+      "Halford, A."
+    ],
+    "year": 2023,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/cyber-physical-advances-in-sles-resource-pack-for-school-workshop/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura/",
+    "crawled_at": "2026-01-16T13:21:47.014373"
+  },
+  {
+    "title": "The funding calls needed to advance the implementation of Smart Local Energy Systems.",
+    "authors": [
+      "Halford, A.",
+      "Elena Gaura",
+      "Gaura, E."
+    ],
+    "year": 2023,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/the-funding-calls-needed-to-advance-the-implementation-of-smart-l/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura/",
+    "crawled_at": "2026-01-16T13:21:47.014582"
+  },
+  {
+    "title": "A community energy management system for smart microgrids",
+    "authors": [
+      "Halford, A.",
+      "Elena Gaura",
+      "Gaura, E."
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-community-energy-management-system-for-smart-microgrids/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura/",
+    "crawled_at": "2026-01-16T13:21:47.014799"
+  },
+  {
+    "title": "Cognitive Computing and Business Intelligence Applications in Accounting, Finance and Management",
+    "authors": [
+      "Vasile Palade",
+      "Palade, V."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/cognitive-computing-and-business-intelligence-applications-in-acc/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/vasile-palade/",
+    "crawled_at": "2026-01-16T13:21:52.953240"
+  },
+  {
+    "title": "Double-Graph Representation With Relational Enhancement for Emotion\u2013Cause Pair Extraction",
+    "authors": [
+      "Vasile Palade",
+      "Palade, V."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/double-graph-representation-with-relational-enhancement-for-emoti/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/vasile-palade/",
+    "crawled_at": "2026-01-16T13:21:52.953346"
+  },
+  {
+    "title": "Human-in-the-Loop XAI for Predictive Maintenance: A Systematic Review of Interactive Systems and Their Effectiveness in Maintenance Decision-Making",
+    "authors": [
+      "Vasile Palade",
+      "Tjahjono, B.",
+      "Amaliah, N. R.",
+      "Palade, V."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/human-in-the-loop-xai-for-predictive-maintenance-a-systematic-rev/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/vasile-palade/",
+    "crawled_at": "2026-01-16T13:21:52.953443"
+  },
+  {
+    "title": "Leveraging Physics-Informed Neural Networks for Efficient Modelling of Coastal Ecosystems Dynamics: A Case Study of Sundarbans Mangrove Forest",
+    "authors": [
+      "Vasile Palade",
+      "Palade, V.",
+      "Eden, J."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/leveraging-physics-informed-neural-networks-for-efficient-modelli/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/vasile-palade/",
+    "crawled_at": "2026-01-16T13:21:52.953534"
+  },
+  {
+    "title": "Benefits and drawbacks of the Fly-In-Faculty model in transnational education: A student-centric analysis of teaching pace, communication, and faculty engagement",
+    "authors": [
+      "Ayoubi, R.",
+      "Wimpenny, K.",
+      "Rami Ayoubi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/benefits-and-drawbacks-of-the-fly-in-faculty-model-in-transnation/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rami-ayoubi/",
+    "crawled_at": "2026-01-16T13:21:55.947026"
+  },
+  {
+    "title": "Bridging the gap: Academic performance and experiences of technical college students in top-up university degree programme",
+    "authors": [
+      "Ayoubi, R.",
+      "Rami Ayoubi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/bridging-the-gap-academic-performance-and-experiences-of-technica/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rami-ayoubi/",
+    "crawled_at": "2026-01-16T13:21:55.947208"
+  },
+  {
+    "title": "Exiled scholars have a critical role in rebuilding the nation",
+    "authors": [
+      "Ayoubi, R.",
+      "Rami Ayoubi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/exiled-scholars-have-a-critical-role-in-rebuilding-the-nation/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rami-ayoubi/",
+    "crawled_at": "2026-01-16T13:21:55.947297"
+  },
+  {
+    "title": "How is the entrepreneurial mindset of university students formed? The role of entrepreneurial inspiration, education, methods, and environment",
+    "authors": [
+      "Ayoubi, R.",
+      "Rami Ayoubi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/how-is-the-entrepreneurial-mindset-of-university-students-formed-/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rami-ayoubi/",
+    "crawled_at": "2026-01-16T13:21:55.947385"
+  },
+  {
+    "title": "New project tackles gender barriers at HE executive level",
+    "authors": [
+      "Ayoubi, R.",
+      "Rami Ayoubi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/new-project-tackles-gender-barriers-at-he-executive-level/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/rami-ayoubi/",
+    "crawled_at": "2026-01-16T13:21:55.947502"
+  },
+  {
+    "title": "A community\u2011based entropic method to identify influential nodes across multiple social networks",
+    "authors": [
+      "Ghasemi, A.",
+      "Abdorasoul Ghasemi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/a-communitybased-entropic-method-to-identify-influential-nodes-ac/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/abdorasoul-ghasemi/",
+    "crawled_at": "2026-01-16T13:22:01.175630"
+  },
+  {
+    "title": "Optimal Redundant Sensor Placement for Protection Blinding in Active Distribution Grids",
+    "authors": [
+      "Ghasemi, A.",
+      "Abdorasoul Ghasemi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/optimal-redundant-sensor-placement-for-protection-blinding-in-act/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/abdorasoul-ghasemi/",
+    "crawled_at": "2026-01-16T13:22:01.175843"
+  },
+  {
+    "title": "Swarm Intelligence-Based Algorithm for Workload Placement in Edge-Fog-Cloud Continuum",
+    "authors": [
+      "Ghasemi, A.",
+      "Abdorasoul Ghasemi"
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/swarm-intelligence-based-algorithm-for-workload-placement-in-edge/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/abdorasoul-ghasemi/",
+    "crawled_at": "2026-01-16T13:22:01.175948"
+  },
+  {
+    "title": "Analysis of protection blinding in active distribution grids",
+    "authors": [
+      "Ghasemi, A.",
+      "Abdorasoul Ghasemi"
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/analysis-of-protection-blinding-in-active-distribution-grids/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/abdorasoul-ghasemi/",
+    "crawled_at": "2026-01-16T13:22:01.176040"
+  },
+  {
+    "title": "An Interaction-Dependent Model for\u00a0Probabilistic Cascading Failure",
+    "authors": [
+      "Ghasemi, A.",
+      "Abdorasoul Ghasemi"
+    ],
+    "year": 2024,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/an-interaction-dependent-model-forprobabilistic-cascading-failure/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/abdorasoul-ghasemi/",
+    "crawled_at": "2026-01-16T13:22:01.176127"
+  },
+  {
+    "title": "Fluid\u2013structure interaction analysis of pulsatile flow in arterial aneurysms with physics-informed neural networks and computational fluid dynamics",
+    "authors": [
+      "Ajao-Olarinoye, M.",
+      "Michael Ajao-olarinoye",
+      "Liu, H."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/fluidstructure-interaction-analysis-of-pulsatile-flow-in-arterial/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/michael-ajao-olarinoye/",
+    "crawled_at": "2026-01-16T13:22:03.910805"
+  },
+  {
+    "title": "Allocating Medical Resources (vaccine) to Control a Pandemic",
+    "authors": [
+      "Ajao-olarinoye, M.",
+      "Michael Ajao-olarinoye"
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/allocating-medical-resources-vaccine-to-control-a-pandemic/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/michael-ajao-olarinoye/",
+    "crawled_at": "2026-01-16T13:22:03.910899"
+  },
+  {
+    "title": "Understanding Multistationarity of Fully Open Reaction Networks",
+    "authors": [
+      "Sadeghimanesh, A.",
+      "AmirHosein Sadeghimanesh",
+      "England, M."
+    ],
+    "year": 2025,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/understanding-multistationarity-of-fully-open-reaction-networks/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/amirhosein-sadeghimanesh/",
+    "crawled_at": "2026-01-16T13:22:06.777049"
+  },
+  {
+    "title": "Polynomial Superlevel Set Representation of the Multistationarity Region of Chemical Reaction Networks",
+    "authors": [
+      "Sadeghimanesh, A.",
+      "AmirHosein Sadeghimanesh",
+      "England, M."
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/polynomial-superlevel-set-representation-of-the-multistationarity/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/amirhosein-sadeghimanesh/",
+    "crawled_at": "2026-01-16T13:22:06.777160"
+  },
+  {
+    "title": "Kac-Rice formulas and the number of solutions of parametrized systems of polynomial equations",
+    "authors": [
+      "Sadeghimanesh, A.",
+      "AmirHosein Sadeghimanesh"
+    ],
+    "year": 2022,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/kac-rice-formulas-and-the-number-of-solutions-of-parametrized-sys/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/amirhosein-sadeghimanesh/",
+    "crawled_at": "2026-01-16T13:22:06.777250"
+  },
+  {
+    "title": "Exotic bifurcations in three connected populations with Allee effect",
+    "authors": [
+      "Sadeghimanesh, A.",
+      "AmirHosein Sadeghimanesh"
+    ],
+    "year": 2021,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/exotic-bifurcations-in-three-connected-populations-with-allee-eff/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/amirhosein-sadeghimanesh/",
+    "crawled_at": "2026-01-16T13:22:06.777343"
+  },
+  {
+    "title": "Clustering in the Lazard method for Cylindrical Algebraic Decomposition",
+    "authors": [
+      "Sadeghimanesh, A.",
+      "AmirHosein Sadeghimanesh",
+      "England, M."
+    ],
+    "year": 2023,
+    "publication_link": "https://pureportal.coventry.ac.uk/en/publications/clustering-in-the-lazard-method-for-cylindrical-algebraic-decompo/",
+    "profile_link": "https://pureportal.coventry.ac.uk/en/persons/amirhosein-sadeghimanesh/",
+    "crawled_at": "2026-01-16T13:22:06.777434"
+  }
+]
